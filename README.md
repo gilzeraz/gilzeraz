@@ -1,37 +1,50 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Victor%20Gil&fontSize=80&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
   
   ### 🚀 ADS | Especialista em Dados pela FIAP | Engenheiro
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fernando-gil-75a1b5141/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilzeraz)
-  
+  [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilzeraz.github.io/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Engenheiro Mecânico de formação com transição de carreira para a área de Tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em gerar valor através da análise de dados e modelos preditivos.
+Engenheiro Mecânico de formação em transição de carreira para a área de Tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em transformar dados brutos em insights estratégicos e soluções automatizadas.
 
-- 🛠 Atualmente focado em **Gestão de Bases de Dados e Automação**.
-- 🎓 Especialização em **Big Data e Machine Learning**.
-- ⚡ Perfil analítico e movido pela resolução de problemas práticos.
+- 🛠 Atualmente atuando como **Analista de Software** com foco em bases de dados.
+- 🎓 Especialização em **Big Data, Machine Learning e Inteligência Artificial**.
+- ⚡ Apaixonado por resolver problemas complexos através da análise preditiva.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Habilidades & Stack Técnica
 
+**📊 Ciência & Análise de Dados**
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</div>
 
+**🗄️ Bancos de Dados & BI**
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</div>
+
+**💻 Desenvolvimento & Ferramentas**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
