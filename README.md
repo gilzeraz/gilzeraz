@@ -53,8 +53,7 @@ Engenheiro Mecânico de formação em transição para a área de Análise de Da
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilzeraz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilzeraz&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilzeraz&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
 </div>
 
 ---
