@@ -5,7 +5,7 @@
   <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fernando-gil-75a1b5141/)
-  [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilzeraz.github.io/) 
+  [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilzeraz.github.io/meu-portifolio/) 
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victorfernandogil@outlook.com)
 </div>
 
