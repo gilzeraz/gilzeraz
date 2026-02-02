@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Victor%20Gil&fontSize=80&animation=fadeIn" width="100%"/>
+  <h1> Olá, eu sou o Victor Gil 👋 </h1>
+  <p><b>ADS | Especialista em Dados pela FIAP | Engenheiro</b></p>
   
-  ### 🚀 ADS | Especialista em Dados pela FIAP | Engenheiro
-  
+  <br>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fernando-gil-75a1b5141/)
   [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilzeraz.github.io/) 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgil.contato@seuemail.com)
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Engenheiro Mecânico de formação em transição de carreira para a área de Tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em transformar dados brutos em insights estratégicos e soluções automatizadas.
+Engenheiro Mecânico de formação em transição para a área de Tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em transformar dados brutos em insights estratégicos e soluções automatizadas.
 
 - 🛠 Atualmente atuando como **Analista de Software** com foco em bases de dados.
 - 🎓 Especialização em **Big Data, Machine Learning e Inteligência Artificial**.
@@ -52,12 +53,12 @@ Engenheiro Mecânico de formação em transição de carreira para a área de Te
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gilzeraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilzeraz&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilzeraz&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilzeraz&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
