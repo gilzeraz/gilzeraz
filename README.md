@@ -1,18 +1,18 @@
 <div align="center">
-  <h1> Olá, eu sou o Victor Gil 👋 </h1>
-  <p><b>ADS | Especialista em Dados pela FIAP | Engenheiro</b></p>
+  <h1> Olá, me chamo Victor Gil 👋 </h1>
+  <p><b>ADS | Especialista em Dados pela FIAP | Engenheiro Mecânico</b></p>
   
   <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fernando-gil-75a1b5141/)
   [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilzeraz.github.io/) 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgil.contato@seuemail.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victorfernandogil@outlook.com)
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Engenheiro Mecânico de formação em transição para a área de Tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em transformar dados brutos em insights estratégicos e soluções automatizadas.
+Engenheiro Mecânico de formação em transição para a área de Análise de Dados. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Dados na Pós-Tech FIAP**. Focado em transformar dados brutos em insights estratégicos e soluções automatizadas.
 
 - 🛠 Atualmente atuando como **Analista de Software** com foco em bases de dados.
 - 🎓 Especialização em **Big Data, Machine Learning e Inteligência Artificial**.
