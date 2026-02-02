@@ -52,7 +52,9 @@ Engenheiro Mecânico de formação em transição para a área de Análise de Da
 
 ### 📊 Estatísticas do GitHub
 
-![Visualizações](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilzeraz&count_bg=%230077B5&title_bg=%23555555&icon=eye-fill.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gilzeraz&color=0077B5&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="gilzeraz" />
+</div>
 ---
 
 <div align="center">
